@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713840367 source:d:\codeblocks\egyetem\parhuzamos\huffman\seq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
