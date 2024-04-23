@@ -1,0 +1,5 @@
+"__kernel void hello_kernel(__global int* buffer, int n) {\n"
+    "   if (get_global_id(0) < n) {\n"
+    "       buffer[get_global_id(0)] = 11;\n"
+    "   }\n"
+    "}\n"
