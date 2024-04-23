@@ -1,0 +1,1 @@
+Feladatom során a huffman kódolási algoritmust fogom párhuzamosítani, pontosabban a karaktrek kódolási folyamatát. Összehasonlítom a futási időt szekvenciális és párhuzamosított változatban. A többi részben mind a két kód hasonló lesz.
